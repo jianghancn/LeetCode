@@ -1,6 +1,5 @@
-package com.company;
-
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 class Program {
     public static List<List<Integer>> powerset(List<Integer> array) {

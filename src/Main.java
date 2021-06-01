@@ -1,6 +1,3 @@
-
-import java.util.Arrays;
-
 public class Main {
 
 
@@ -48,8 +45,7 @@ public class Main {
 
     public static void main(String[] args) {
         Solution p = new Solution();
-        int[][] a = {{0, 1}, {0, 2}, {1, 2}};
-        System.out.println(p.canFinish(3, a));
+         System.out.println("ddadad");
 
 
     }

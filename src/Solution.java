@@ -1,6 +1,5 @@
-package com.company;
-
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 class Solution {
     public List<String> fullJustify(String[] words, int maxWidth) {
